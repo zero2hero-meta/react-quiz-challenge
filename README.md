@@ -2,6 +2,10 @@
 
 A simple one-page React + TypeScript quiz game for a 1-hour workshop.
 
+## Creation of the project from the beginning with AI - Prompts
+
+See [react-quiz-challenge-prompt-list.md](./react-quiz-challenge-prompt-list.md) for a workshop prompt guide to create the project.
+
 ## Folder Structure
 
 - `src/screens/` - page-level screens. This app has one main screen: `QuizScreen`.
